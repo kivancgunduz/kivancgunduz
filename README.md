@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Kivanc
 
-I'm Kivanc from Belgium. I'm an Junior ML engineer. Currently, I am working as a Junior ML developer on @BeCode
 <!--
 **kivancgunduz/kivancgunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
