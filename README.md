@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kivanc
 
-I'm Kivanc from Belgium. I'm an electronics engineer. Currently, I am working as a Junior ML developer on @BeCode
+I'm Kivanc from Belgium. I'm an Junior ML engineer. Currently, I am working as a Junior ML developer on @BeCode
 <!--
 **kivancgunduz/kivancgunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning/Deep Learning
 - 👯 I’m looking to collaborate on BeCode @bouman
 - 💬 Ask me about on Python, C# and Swift. 
-- 📫 How to reach me: [Twitter](https://twitter.com/ghostInfLoop)
+- 📫 How to reach me: [Twitter](https://twitter.com/ghostInfLoop) / [Instagram](https://www.instagram.com/ghostinfloop) / [Linkedin](https://www.linkedin.com/in/kivancgunduz35/)
 - 😄 Pronouns: Kivo
 - ⚡ Fun fact: Coffee - Spotify - [Cs.Go - ETS2 - Assassin's Creed]
 
