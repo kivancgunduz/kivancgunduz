@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [BeCode](https://becode.org/)
 - 🌱 I’m currently learning Machine Learning/Deep Learning
-- 👯 I’m looking to collaborate on BeCode @bouman 4
+- 👯 I collaborate on BeCode @bouman 4
 - 💬 Ask me about on `Python, C# and Swift.` 
 - 📫 How to reach me: [Twitter](https://twitter.com/ghostInfLoop) / [Instagram](https://www.instagram.com/ghostinfloop) / [Linkedin](https://www.linkedin.com/in/kivancgunduz35/)
 - 😄 Pronouns: Kivo
